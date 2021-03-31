@@ -1,0 +1,15 @@
+##All credit goes to Awesome__Luke
+
+##Format of the staff chat in the chat. & color codes are accepted.
+format: '&c[SC] %player%: %message%'
+
+##Prefix to use the staff chat without /sc. Ex: #hello
+chat-prefix: '#'
+
+##Message to send if player doesn't have permission
+no-permission-message: '&c[SC] You don''t have permission to execute this command.'
+
+##Message to send if the message doesn't have any content
+not-enough-args: '&c[SC] Not enough arguments: /sc <message>.'
+
+permission: 'staffchat.use'

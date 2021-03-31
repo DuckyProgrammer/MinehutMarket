@@ -1,0 +1,8 @@
+name: StaffChat
+version: 1.0
+main: me.AwesomeLuke.StaffChat.Main
+author: Awesome__Luke
+commands:
+  sc:
+    aliases: [staffchat]
+    description: does stuff
